@@ -1,0 +1,160 @@
+{
+  "project_info": {
+    "project_number": "902180323407",
+    "firebase_url": "https://instegramclone-62718.firebaseio.com",
+    "project_id": "instegramclone-62718",
+    "storage_bucket": "instegramclone-62718.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902180323407:android:dd45a6c271296383",
+        "android_client_info": {
+          "package_name": "com.medanis.fnecliscalcultricedumoyennestlicensemaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902180323407-n44tgdfturu5iu1megq5o62t397upmvu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medanis.fnecliscalcultricedumoyennestlicensemaster",
+            "certificate_hash": "c53c6a96247a270d4a9448bd2a9d8249dce3ed6a"
+          }
+        },
+        {
+          "client_id": "902180323407-191sm22iabbi2vin4b9bseigt6q02eto.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medanis.fnecliscalcultricedumoyennestlicensemaster",
+            "certificate_hash": "03f2b41fcf30e832cb88d5babf206f69ab534a19"
+          }
+        },
+        {
+          "client_id": "902180323407-1uaaa1lgqiacmj3agsphbgf850effnc6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medanis.fnecliscalcultricedumoyennestlicensemaster",
+            "certificate_hash": "8862359418dd8e94d42ab477d3e0ca2b400a01d8"
+          }
+        },
+        {
+          "client_id": "902180323407-7hp73578dfgmk48ecin999kd0or6hopm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY29cLXyvWMegJn26QFMADA9WWxsSKm48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902180323407-7hp73578dfgmk48ecin999kd0or6hopm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-1974446900209189~8596835279"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902180323407:android:876c5404950be90eb2aa3a",
+        "android_client_info": {
+          "package_name": "com.medanis.medmax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902180323407-6or22pd2gaj8tibm6m7pfnhfdb9jrlpu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medanis.medmax",
+            "certificate_hash": "be1f591dcc2207066ac1b2320b2e485237f13b97"
+          }
+        },
+        {
+          "client_id": "902180323407-7hp73578dfgmk48ecin999kd0or6hopm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY29cLXyvWMegJn26QFMADA9WWxsSKm48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902180323407-7hp73578dfgmk48ecin999kd0or6hopm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902180323407:android:0d1d8508db82eef8b2aa3a",
+        "android_client_info": {
+          "package_name": "com.medanis.medmax.doctors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902180323407-7hp73578dfgmk48ecin999kd0or6hopm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY29cLXyvWMegJn26QFMADA9WWxsSKm48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902180323407-7hp73578dfgmk48ecin999kd0or6hopm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902180323407:android:b1904e27c5099ef1b2aa3a",
+        "android_client_info": {
+          "package_name": "com.medanis.myvideocallapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902180323407-7hp73578dfgmk48ecin999kd0or6hopm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY29cLXyvWMegJn26QFMADA9WWxsSKm48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902180323407-7hp73578dfgmk48ecin999kd0or6hopm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
